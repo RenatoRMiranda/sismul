@@ -1,0 +1,17 @@
+.navbar,.btn {
+	background-color: yellow;
+	color: #d4028a;
+}
+
+.card {
+	background-color: #57f01f;
+}
+
+.alert {
+	background-color: blue;
+	color: yellow;
+}
+
+form {
+	color:white;
+}
