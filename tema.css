@@ -1,0 +1,10 @@
+.flexo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.grido {
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+}
